@@ -1,0 +1,10 @@
+{
+	"name": "mirrorstream",
+	"version": "0.0.0",
+	"description": "a duplex stream that emits all data written to it",
+	"author": "Felix Boehm <me@feedic.com>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fb55/node-mirrorstream.git"
+	}
+}
